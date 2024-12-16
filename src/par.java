@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class parameteri {
+public class par {
     public static void main(String[] args) {
         int id;
         String name;
